@@ -14,6 +14,16 @@ Hello I am Raja Sekhar, a Computer Science Undergrad. Tech Enthusiast and an Aut
 
 ### Projects
 
+[![Teqhelion](images/teq.png)](http://teqhelion.github.io)
+
+[![SpaceGame](images/space.png)](https://github.com/rajasekhar2307/space-invader-game)
+
+[![Emotion Detection](images/emot.png)](https://github.com/rajasekhar2307/EmotionDetection)
+
+
+### Contact me via
+Here is my Website [Portfolio](https://rajasekhar2307.github.io/rajasekhar23071) link.
+Find me on
 
 
 <!--
