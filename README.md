@@ -1,3 +1,5 @@
+# B Raja Sekhar
+
 ## Hi there 👋
 Hello I am Raja Sekhar, a Computer Science Undergrad. Tech Enthusiast and an Author at [TechTrivan](https://techtrican.com/author/raja).
 ### Determinant  :pushpin: |
@@ -22,21 +24,9 @@ Hello I am Raja Sekhar, a Computer Science Undergrad. Tech Enthusiast and an Aut
 
 
 ### Contact me via
-Here is my Website [Portfolio](https://rajasekhar2307.github.io/rajasekhar23071) link.
-Find me on
+Here is my [Portfolio](https://rajasekhar2307.github.io/rajasekhar23071) link.
 
-[![Linkedin](images/linkedin.png)](https://linkedin.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](images/twitter.png)](https://twitter.com/rajasekhar2307)
-<!--
-**rajasekhar2307/rajasekhar2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Also Find me on
 
-Here are some ideas to get you started:
+[![Linkedin](images/linkedin.png)](https://www.linkedin.com/in/b-raja-sekhar-6013bb183)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](images/twitter.png)](https://twitter.com/rajasekhar2307)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](images/mail.png)](mailto:rajasekhar.b237@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
