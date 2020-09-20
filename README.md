@@ -25,7 +25,7 @@ Hello I am Raja Sekhar, a Computer Science Undergrad. Tech Enthusiast and an Aut
 Here is my Website [Portfolio](https://rajasekhar2307.github.io/rajasekhar23071) link.
 Find me on
 
-
+[![Linkedin](images/linkedin.png)](https://linkedin.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](images/twitter.png)](https://twitter.com/rajasekhar2307)
 <!--
 **rajasekhar2307/rajasekhar2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
