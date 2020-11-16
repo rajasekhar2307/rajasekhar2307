@@ -10,7 +10,6 @@ Hello I am Raja Sekhar, a Computer Science Undergrad. Tech Enthusiast and an Aut
   * Deep Learning
   * Web Development
 ### My Work
-* Currently working on Optical Character Recognition using OpenCV
 * Previously Worked on Emotion Recognition from text
 * Looking to work as an Intern
 
