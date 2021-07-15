@@ -1,29 +1,10 @@
 # B Raja Sekhar
 
 ## Hi there 👋
-Hello I am Raja Sekhar, a Computer Science Undergrad. Tech Enthusiast and an Author at [TechTrivan](https://techtrican.com/author/raja).
-### Determinant  :pushpin: |
+Hello I am Raja Sekhar, a Computer Science Undergrad and a Tech Enthusiast.
 
-### Interests
-  * Machine Learning
-  * NLP
-  * Deep Learning
-  * Web Development
-### My Work
-* Previously Worked on Emotion Recognition from text
-* Looking to work as an Intern
-
-### Projects
-
-[![Teqhelion](images/teq.png)](http://teqhelion.github.io)
-
-[![SpaceGame](images/space.png)](https://github.com/rajasekhar2307/space-invader-game)
-
-[![Emotion Detection](images/emot.png)](https://github.com/rajasekhar2307/EmotionDetection)
-
-
-### Contact me via
-Here is my [Portfolio](https://rajasekhar2307.github.io/rajasekhar23071) link.
+### Contact me
+Here is my [Portfolio](https://rajasekhar2307.netlify.app) link.
 
 Also Find me on
 
