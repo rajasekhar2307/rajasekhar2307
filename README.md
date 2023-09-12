@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a Software Engineer 👨‍💻
+Hi, I'm a Software Engineer, and a tech enthusiast 👨‍💻
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@ Hi, I'm a Software Engineer 👨‍💻
 ---
 [![](https://visitcount.itsvg.in/api?id=rajasekhar2307&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
